@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Selenium, Appium, React, and Node.js**
 
-- 📫 How to reach me **wap0211@gmail.com**
+- 📫 Reach me at **wap0211@gmail.com**
 
 - 📄 Learn about my experiences <a href="https://docs.google.com/document/d/1ZnlnmT96jAQwaLCy9LElZ63iQ5kGPJvM4_3ahPYkQnA/edit?usp=sharing">here</a>
 
