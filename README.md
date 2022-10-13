@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **wap0211@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ZnlnmT96jAQwaLCy9LElZ63iQ5kGPJvM4_3ahPYkQnA/edit?usp=sharing](https://docs.google.com/document/d/1ZnlnmT96jAQwaLCy9LElZ63iQ5kGPJvM4_3ahPYkQnA/edit?usp=sharing)
+- 📄 Learn about my experiences <a href="https://docs.google.com/document/d/1ZnlnmT96jAQwaLCy9LElZ63iQ5kGPJvM4_3ahPYkQnA/edit?usp=sharing">here</a>
 
 - ⚡ Fun fact **I play guitar 🎸**
 
