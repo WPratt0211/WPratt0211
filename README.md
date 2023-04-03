@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wpratt0211" alt="wpratt0211" /></a> </p>
 
-- 🔭 I’m currently working on [BitBar](https://smartbear.com/product/bitbar/)
+- 🔭 I’m currently working on [Radancy Programmatic](https://www.radancy.com/en/programmatic)
 
 - 🌱 I’m currently learning **offensive and defensive security**
 
