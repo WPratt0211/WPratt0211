@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm William</h1>
 <h3 align="center">A software engineer from the USA</h3>
 
-<a href="https://app.daily.dev/wpratt0211"><img src="https://api.daily.dev/devcards/74f515db46d34e1283eecdbb833487ea.png?r=j0m" width="400" alt="William Pratt's Dev Card"/></a>
+[<a href="https://app.daily.dev/wpratt0211"><img src="https://api.daily.dev/devcards/74f515db46d34e1283eecdbb833487ea.png?r=j0m" width="400" alt="William Pratt's Dev Card"/></a>](https://api.daily.dev/devcards/74f515db46d34e1283eecdbb833487ea.png?r=o5m)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wpratt0211&label=Profile%20views&color=0e75b6&style=flat" alt="wpratt0211" /> </p>
 
